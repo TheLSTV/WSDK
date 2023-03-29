@@ -1,3 +1,17 @@
+## Version 0.8.9
+- Among many smaller improovements, project groups have been added:
+![image](https://user-images.githubusercontent.com/62482747/228671786-5ecab1a8-9279-41f1-874c-5fefa376a55f.png)<br>
+![image](https://user-images.githubusercontent.com/62482747/228671802-bcf446a6-8b77-4df5-9144-f653894a1530.png)<br>
+- You can also now drag-n-drop projects in the main screen to reorder them and move them between groups.
+
+## Version 0.8.8
+- Added an interface to edit envinronment variables<br>
+![image](https://user-images.githubusercontent.com/62482747/228053223-275901f4-bb29-48a3-b8c0-28549b37b620.png)
+- Misc tools like database benchmark added
+- Migrated to a different DB system, only to add automatic saving instead of intervals, but the performance and disk space waste may have worsened. There may be a way to switch later.
+- Polished treeview - now sadly due to the changes the connector lines have been temporarily removed, but more features have been added and more like virtual scrolling optimisation are awaiting.
+
+
 ## Version 0.8 (New)
 Changelog for newer versions is comming soon.<br>
 ![image](https://user-images.githubusercontent.com/62482747/226109061-c1180ab0-f3d9-4f8c-a9b3-f86b2262a9cb.png)
